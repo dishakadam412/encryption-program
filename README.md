@@ -16,11 +16,15 @@ A lightweight script created to experiment with ciphers and text transformation 
 What message would you like to encrypt? : donut
 
 original message : donut
+
 encrypted message : *)(kw
+
+--
 
 What message would you like to decrypt? : *)(kw
 
 encrypted message : *)(kw
+
 original message : donut
 
 ---
